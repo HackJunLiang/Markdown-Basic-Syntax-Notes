@@ -1,4 +1,4 @@
-<h1 color="red">Heading</h1>
+<h1 color=#800000>Heading</h1>
 # Heading
 <!-- HTML <h1> -->
 ## Heading Level 2
