@@ -1,12 +1,10 @@
 # Heading
-
 <!-- HTML <h1> -->
 ## Heading Level 2
 <!-- HTML <h2> -->
 ### Heading Level 3
 
 # Alternate Syntax
-
 <!-- HTML <h1> -->
 Heading Level 1
 =================
@@ -17,3 +15,7 @@ Heading Level 2
 # Bold（粗體）
 <!-- HTML <strong> -->
 Test **bold**.
+
+#Italic（斜體）
+<!-- HTML <em>  -->
+Italicized text is the *cat's meow*.
