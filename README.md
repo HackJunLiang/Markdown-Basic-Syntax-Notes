@@ -1,4 +1,4 @@
-<span style="color:red"># Headings</span>
+<h1 style="color:red">Headings</h1>
 <!-- HTML <h1> -->
 # Heading Level 1
 <!-- HTML <h2> -->
