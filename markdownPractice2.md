@@ -1,9 +1,18 @@
-1. Open the file.
-2. Find the following code block on line 21:
+# Code 
+At the command prompt, type `nano`.
 
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
+# Links
+<!-- HTML My favorite search engine is <a href="https://google.com">Google.</a> -->
+My favorite search engine is [Google](https://google.com)
 
-3. Update the title to match the name of your website.
+# URLs and Email Addresses
+<https://www.markdownguide.org>
+<fake@example.com>
+
+# Tables
+| Syntax    | Description |
+| ------    | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+
