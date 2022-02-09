@@ -1,4 +1,5 @@
 <h1 style="color:blue">Headings</h1>
+<span style="color:blue">some *blue* text</span>.
 <!-- HTML <h1> -->
 # Heading Level 1
 <!-- HTML <h2> -->
